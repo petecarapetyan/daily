@@ -81,15 +81,15 @@ This is so fucked up. And probably a good opportunity.
 - dependent relationships
 - waste/refuse
 - emotions
-- knowledge
-- bad manners
+- knowledge or it's opposite
+- bad manners or it's opposite
 - planned obsolescence
-- perfectionism
-- inactivity
+- perfectionism or it's opposite
+- inactivity or it's opposite
 - life without meaning
 - sex, or it's opposite
 - shame binding
-- hiding
+- hiding or it's opposite
 - messy or it's opposite
 - smelly or it's opposite
 - insensitive or it's opposite
