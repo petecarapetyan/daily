@@ -93,6 +93,12 @@ This is so fucked up. And probably a good opportunity.
 - messy or it's opposite
 - smelly or it's opposite
 - insensitive or it's opposite
+- decisions based on familiarity over options
+- innovation for the sake of innovation
+- laziness/sloth
+- churn
+- sleeplessness
+- bad hygiene
 - 
 
 yet everything above is loved by both those who produce same, but also those who consume same. So 
