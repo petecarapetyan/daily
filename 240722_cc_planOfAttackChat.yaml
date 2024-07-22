@@ -1,0 +1,49 @@
+240722_cc_planOfAttackChat.yaml:
+  - options:
+    - solve deployment sockets with Ogulcan help
+    - migrate to socket.io per:
+      - https://www.youtube.com/watch?v=rxzOqP9YwmM
+    - migrate to firebase via:
+      - https://www.youtube.com/watch?v=zQyrwxMPm88&t=54s
+  - criteria:
+    - shortest route 
+    - web components for sake of web components 
+    - congruence with what we have going 
+    - what is going to compete with nonsense from new initiative 
+    - what works with:
+      - ss3
+      - firebase existing 
+      - jhipster 
+      - things TBD
+      - best of Lit world
+      - existing react app
+    - what would take advantage of Nathan as a resource?
+    - what would make the CC best gym goals move fastest best
+    - what integrates best with udu/betterology
+    - what uses the latest best tech from chrome team?
+    - what helps the integration of the 2 worlds assapp and cc?
+    - what integrates best with current slack?
+    - what gets my own skills up to all current requirements?:
+      - security firebase/spring
+      - firebase
+    - what doesn't cause a huge embarrassing delay for me as lead instructor
+    - what goes into mysql and not firebase?
+    - what uses latest emulator suite from firebase? 
+    - what uses signals?
+    - what is the chrome team doing that I don't even know about?
+    - what migrates from slack most seamlessly?
+    - what can I answer Nathan before he starts working again this week?
+    - what prevents every single hour of wasted effort?
+    - what integrates with cc login fix to firebase/assapp?
+    - what is billable by ticket to my own betterology/udu effort?
+    - what can be fixed by slack channel link?
+    - what uses the summer billing to best advantage?
+    - what helps me and Trevor bridge our differences and work together?
+    - what gets me from 5% to 85% on the gym conversions
+    - what is definable as a ground short?
+    - what is teachable within the curriculumn?
+    - what is congruent within the context of the fall/winter/spring rollout?
+    - what integrates with the new react curriculum yet to be defined?
+    - what is replicatable for a student thinking ss3 and 5%>85%
+    - what could be solved by having Ogulcan deploy to railway?
+    - 
