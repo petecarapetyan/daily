@@ -1,0 +1,12 @@
+240727_basics.yaml:
+  primary:
+    - creates enough ADP to burn
+    - continues enough cell reproduction to continue 
+    - secondary:
+      - external: 
+        - doesn't kill
+        - does provide what is needed
+      - self:
+        - provides enough [...] to support each primary
+  other:
+    - beyond this, everything is pretty much flexible

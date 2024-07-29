@@ -1,0 +1,91 @@
+240728_ratchet_strategety.yaml all things:
+  - everything below is an "all things" so that atomic everything applies:
+    - lossy if not atomic 
+    - must be ownable by me as a process
+    - must be paid for developing it for instruction
+    - if my use then assumed as atomic elective 
+    - if not easily documented and easy to keep separate then does not ratchet 
+    - if not part of theProcess then lossy
+    - generally bad if:
+      - connected to a specific not-free-or-standard:
+        - IDE
+        - sass platform
+        - language 
+        - library 
+        - coursework 
+        - documentation
+        - muscle memory such as keyboarding 
+        - shell
+        - OS
+      - but still gotta do it when cost benefit is declared within human scale 
+  - personal automations in udu:
+    - mine only, nobody else can own them
+    - atomic as much as possible with project as primary unit
+    - any unit can have other dependencies
+    - documentation even if stream of consciousness yaml is the better of first evils
+    - any language rule:
+      - bash
+      - typescript
+      - python
+      - rust
+    
+  - cc:
+    - everything I do on my own must be ownable by me 
+    - electives are the single unit of ... 
+    - storing media on firebase instead of vimeo
+    - anything that can be converted into an elective is good
+    - all things elective are:
+      - own video
+      - own repo:
+        - naming convention added
+      - other ideas still not mapped in elective concepts:
+        - docker
+        - jhipster
+        - files 
+        - 
+  - problems still to be worked out:
+    - combined-multiplier: any combination of below times each other
+    - completion: stuff not completed by every definition of complete
+    - pay: stuff I am doing that I do not get paid for because multiple purpose
+    - definitions: not always clear about what the rules are for any given atomic
+    - distractions: competition for my time
+    - theProcess: not a part of the daily process 
+    - slack: infinite human distractions
+    - differences: non-standard-ish aspects of stuff that needs to be atomic
+    - time sequence issues: the need to destroy previous versions such as docs, videos 
+    - handoff: stuff that does not hand off because it is too undefined 
+    - learnable-teachable: stuff that is not teachable because too undefined
+    - squatters: corporate squatters used to own things increasingly fading 
+    - manual: anything that relies on UI clicks instead of automation such as firebase
+    - cost: anything that runs up a bill such as intellij ultimate or firebase
+    - teamless: anything that cannot be handed off to someone on the team
+    - isRole: stuff that is not clear what type of role would even do this
+    - transitioningToAuto: anything that if I learn a robot or AI will soon take over
+    - generic-vs-coder-training: what is a coder? automation? etc all way to wet chemistry
+    - Trevor-child-shiny-ego issues: all types
+    - requires-maintenance: anything that time bombs because requires maintenance
+    - manual-step-required: anything that requires a manual step
+    - security-blocker: anything that has to be secured by role
+    - hard-to-learn: anything that is too hard to learn
+    - rule of 4: anything that can't be communicated in 4 bleeps or less
+    - forever fighting between:
+      - docs:
+        - yaml 
+          - editor:
+            - ...
+          - schema source enforcement like xsl
+        - markdown
+      - IDE:
+        - VSCode
+        - intellij
+    - the natural progression:
+      - hunt around in the shop/other to iterate as one of
+      - develop a thing that is an example of coolness
+      - perfect the thing through iteration commercial or otherwise
+      - ui clickable app for same
+      - open source copy of same
+      - consume open source copy
+      - standardize consumption of open source copy at physical level
+      - document/video integration of open sourced version
+      - figure out how to get `benefit` of same without any of above
+      - wet chemistry migration: dopamine etc into primary secondary tertiary
